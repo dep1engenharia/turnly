@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
-    "@turnly/eslint-config": "https://github.com/turnly/configs.git",
+    "@turnly/eslint-config": "https://github.com/dep1engenharia/configs.git",
     "husky": "^8.0.1",
     "lerna": "^6.4.1",
     "nx": "15.6.3"
@@ -50,5 +50,5 @@
   },
   "packageManager": "yarn@1.22.19",
   "main": "index.js",
-  "repository": "https://github.com/turnly/turnly.git"
+  "repository": "https://github.com/dep1engenharia/turnly.git"
 }
